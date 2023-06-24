@@ -59,5 +59,6 @@ comprobar si su usuario se encuentra en la base de datos la estructura es la sig
    nombre:'tu nombre'     
 }
 ```
-
+## BOTON PARA PROBAR EN POSTMAN
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/25684918-393be3b6-4300-47b4-a732-fd987ebbc58b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D25684918-393be3b6-4300-47b4-a732-fd987ebbc58b%26entityType%3Dcollection%26workspaceId%3Dce1029f0-4267-416e-a72e-b5ceca4aba32)
 
